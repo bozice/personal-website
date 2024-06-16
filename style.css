@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+* {
+  margin: 5;
+  padding: 5;
+}
+
+h1 {
+  font-size: 2em;
+  line-height: 0.7em;
+}
+img {
+  width: 300px;
+}
+body {
+  font-family: 'Times Square';
+  background: darkblue;
+  color: hotpink;
+}
